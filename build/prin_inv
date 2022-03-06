@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+          
+        <title>Taogao-EChem</title>
+        <style>
+            
+
+        </style>
+    </head>
+        <body>
+            <nav class="bg-light border navbar navbar-expand-md navbar-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="/"><span class="text-secondary">MultiScale</span>  <span class="text-primary"> E. </span><span class="text-success">C</span><span class="text-danger">H</span><span class="text-info">E</span><span class="text-warning">M</span></a>
+                    <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse" id="navbar">
+                            <ul class="navbar-nav">
+                                <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/gallary">Gallery</a></li>
+                            
+
+                                <div class="btn-group dropdown">
+                                <button class="btn btn-link text-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Research
+                                  </button>
+                                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="/overview">Overview</a>
+                                    <a class="dropdown-item" href="/liion-batteries">Li-ion Batteries</a>
+                                    <a class="dropdown-item" href="/multi">Multi-valent Batteries</a>
+                                    <a class="dropdown-item" href="/redox">Redox Flow Batteries</a>
+                                    <a class="dropdown-item" href="/water">Water Desalination</a>
+                                    <a class="dropdown-item" href="/fluid">Fluid Mechancis</a>
+                                  </div>
+                                  </li>
+                                </div>
+
+                                <div class="btn-group dropdown">
+                                    <button class="btn btn-link text-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Team
+                                      </button>
+                                      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                        <a class="dropdown-item" href="/prin_inv">Principal Investigator</a>
+                                        <a class="dropdown-item" href="#">Current Members</a>
+                                        <a class="dropdown-item" href="/alumni">Alumni</a>
+                                      </div>
+                                      </li>
+                                    </div>
+                            
+                                <li class="nav-item"><a class="nav-link" href="/pub">Publications</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/teach">Teaching</a></li>
+                                
+                            </ul>
+
+                            <ul class="navbar-nav ml-auto mt-2 px-5">
+                                <!--Need to add a toll down button here -->
+                                <div class="dropdown dropstart">
+                                    <button class="btn btn-secondary dropdown-toggle mr-5" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                      More
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                      <a class="dropdown-item" href="#">University of Utah</a>
+                                      <a class="dropdown-item" href="#">Salt Lake City</a>
+                                      <a class="dropdown-item" href="#">Lab Equipment</a>
+                                      <a class="dropdown-item" href="#">Openings</a>
+                                    </div>
+                                  </div>
+                            </ul>
+
+                    </div>
+                </div>
+            </nav>
+            
+         
+        
+        
+</br>
+<div class="container">
+    <div class="row">
+      <div class="col_2">
+          <h1 class="text-dark">Primary Investigator</h1>
+        <img src="">
+      </div>
+      <div class="col">
+        <p>
+            
+<p class="" style="white-space:pre-wrap;"><strong>Dr. Tao Gao &#xFEFF;  </strong>Assistant Professor</p><p class="" style="white-space:pre-wrap;">[<a href="https://scholar.google.com/citations?hl=en&amp;user=73w5AAcAAAAJ">Google Scholar</a>][<a href="https://www.researchgate.net/profile/Tao_Gao13">ResearchGate</a>]</p><p class="" style="white-space:pre-wrap;"><strong>Email: </strong>taogao at chemeng.utah.edu</p><p class="" style="white-space:pre-wrap;"><strong>Education:</strong><br>Postdoc   Massachusetts Institute of Technology. Adviser: <a href="http://web.mit.edu/bazant/www/info/">Martin Bazant</a><br>PhD             University of Maryland, College Park. Adviser: <a href="https://cswang.umd.edu/">Chunsheng Wang</a><br>BS &amp; MS    Tsinghua University</p><p class="" style="white-space:pre-wrap;"><strong>Honors and Awards:</strong><br>2016  Dean’s Dissertation Fellowship<br>2015  Future Faculty Fellow, University of Maryland<br>2015  Poster Award at CREB Annual Meeting<br>2015  Outstanding Graduate Assistant Award<br>2009  National Fellowship<br>2008  Tsinghua Outstanding Scholarship<br>2007  FAST Gear Scholarship</p>
+
+
+        </p>
+      </div>
+    </div>
+    <div class="row">
+        <span class="border-top border-secondary mt-0 w-100">
+
+        <h5 class="mt-3"> Read More </h5>
+    
+<h6 class="text-secondary display-5 mt-3">Selected Publications</h6>
+<p class="" style="white-space:pre-wrap;"><strong>T Gao #</strong>, Y Han #, D Fraggedakis, S Das, T Zhou, CN Yeh, S Xu, WC Chueh, J Li, M Bazant, <a href="/s/2021_Gao_Bazant_Joule.pdf">Interplay of Lithium Intercalation and Plating on a Single Graphite Particle</a>. <strong>Joule</strong>, 2021</p><p class="" style="white-space:pre-wrap;"><strong>T Gao #,</strong> M Mirzadeh#, P Bai, KM Conforti, MZ Bazant, <a href="/s/VF_2019.pdf">Active control of viscous fingering using electric fields</a>, <strong>Nature Communication</strong> 10 (1), 1-8, 2019</p><p class="" style="white-space:pre-wrap;">H Tian #, <strong>T Gao #</strong>, X Li, X Wang, C Luo, X Fan, C Yang, L Suo, Z Ma, C Wang, <a href="/s/MgI_2017.pdf">High power rechargeable magnesium/iodine battery chemistry</a>, <strong>Nature Communications</strong> 8, 14083, 2017</p><p class="" style="white-space:pre-wrap;"><strong>T Gao,</strong> X Ji, S Hou, X Fan, X Li, C Yang, F Han, F Wang, J Jiang, K Xu, <a href="/s/MgS_2018_AM-8a2w.pdf">Thermodynamics and Kinetics of Sulfur Cathode during Discharge in MgTFSI2–DME Electrolyte</a>, <strong>Advanced Materials</strong> 30 (3), 1704313, 2018</p><p class="" style="white-space:pre-wrap;"><strong>T Gao, </strong>S Hou, F Wang, Z Ma, X Li, K Xu, C Wang, <a href="/s/MgS_2017_angew-njdy.pdf">Reversible S0/MgSx Redox Chemistry in a MgTFSI2/MgCl2/DME Electrolyte for Rechargeable Mg/S Batteries</a>, <strong>Angewandte Chemie</strong> <strong>International Edition, </strong>129 (43), 13711-13715, 2017</p><p class="" style="white-space:pre-wrap;"><strong>T Gao,</strong> X Li, X Wang, J Hu, F Han, X Fan, L Suo, AJ Pearse, SB Lee, <a href="/s/AlS_2016.pdf">A rechargeable Al/S battery with an ionic‐liquid electrolyte</a>,<strong>Angewandte Chemie International Edition </strong>55 (34), 9898-9901</p><p class="" style="white-space:pre-wrap;"><strong>T Gao#,</strong> M Noked#, AJ Pearse, E Gillette, X Fan, Y Zhu, C Luo, L Suo,<a href="/s/MgS_2015_JACS.pdf">Enhancing the reversibility of Mg/S battery chemistry through Li+ mediation</a>, <strong>Journal of the American Chemical Society</strong> 137 (38), 12388-12393</p>
+
+<h6 class="text-secondary display-5 mt-3">In the News</h6>
+<p class="" style="white-space:pre-wrap;">03/26 <a href="https://www.ksl.com/article/50134606/u-research-could-speed-up-charging-times-for-cell-phones-and-electric-cars">KSL</a>, <a href="https://kutv.com/news/local/u-of-u-professor-finds-new-inroads-in-fast-charging-for-some-batteries">KUTV</a>, <a href="https://www.fox13now.com/news/technology/utah-researchers-take-the-first-step-towards-charging-batteries-faster">Fox 13</a> covered our work on Li plating mechanism in Li-ion batteries.</p>
+
+</div>
+  </div>
+  
+ 
+
+  
+    
+            <footer class="mb-5 small text-center text-muted">
+                Tech support provided by hlin05. 
+            </footer>
+    
+        </body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+          
+        <title>Taogao-EChem</title>
+        <style>
+            
+
+        </style>
+    </head>
+        <body>
+            <nav class="bg-light border navbar navbar-expand-md navbar-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="/"><span class="text-secondary">MultiScale</span>  <span class="text-primary"> E. </span><span class="text-success">C</span><span class="text-danger">H</span><span class="text-info">E</span><span class="text-warning">M</span></a>
+                    <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse" id="navbar">
+                            <ul class="navbar-nav">
+                                <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/gallary">Gallery</a></li>
+                            
+
+                                <div class="btn-group dropdown">
+                                <button class="btn btn-link text-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Research
+                                  </button>
+                                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="/overview">Overview</a>
+                                    <a class="dropdown-item" href="/liion-batteries">Li-ion Batteries</a>
+                                    <a class="dropdown-item" href="/multi">Multi-valent Batteries</a>
+                                    <a class="dropdown-item" href="/redox">Redox Flow Batteries</a>
+                                    <a class="dropdown-item" href="/water">Water Desalination</a>
+                                    <a class="dropdown-item" href="/fluid">Fluid Mechancis</a>
+                                  </div>
+                                  </li>
+                                </div>
+
+                                <div class="btn-group dropdown">
+                                    <button class="btn btn-link text-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Team
+                                      </button>
+                                      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                        <a class="dropdown-item" href="/prin_inv">Principal Investigator</a>
+                                        <a class="dropdown-item" href="#">Current Members</a>
+                                        <a class="dropdown-item" href="/alumni">Alumni</a>
+                                      </div>
+                                      </li>
+                                    </div>
+                            
+                                <li class="nav-item"><a class="nav-link" href="/pub">Publications</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/teach">Teaching</a></li>
+                                
+                            </ul>
+
+                            <ul class="navbar-nav ml-auto mt-2 px-5">
+                                <!--Need to add a toll down button here -->
+                                <div class="dropdown dropstart">
+                                    <button class="btn btn-secondary dropdown-toggle mr-5" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                      More
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                      <a class="dropdown-item" href="#">University of Utah</a>
+                                      <a class="dropdown-item" href="#">Salt Lake City</a>
+                                      <a class="dropdown-item" href="#">Lab Equipment</a>
+                                      <a class="dropdown-item" href="#">Openings</a>
+                                    </div>
+                                  </div>
+                            </ul>
+
+                    </div>
+                </div>
+            </nav>
+            
+         
+        
+        
+</br>
+<div class="container">
+    <div class="row">
+      <div class="col_2">
+          <h1 class="text-dark">Fluid Interface Stability Control</h1>
+        <img src="">
+      </div>
+      <div class="col">
+        <p>
+            
+<p class="" style="white-space:pre-wrap;">In secondary oil recovery, water is injected into the underground reservoir to push oil out. High efficiency oil production relies on the formation of a stable interface between water and oil. If the interface is unstable, water mixes with oil forming a mixture with low oil content.</p><p class="" style="white-space:pre-wrap;">It is widely known that when a more viscous fluid (oil) displaces a less viscous fluid (water), the interface is not stable due to the formation of finger-like pattern. This phenomenon is termed as viscous fingering, also called Saffman-Taylor instability. It is a widely observed fluid mechanics phenomenon in nature and industry.</p><p class="" style="white-space:pre-wrap;">Controlling viscous fingering has always been an piratically important but challenging problem.  We demonstrated through both experiment and theory that the viscous fingering can be controlled, by applying an electric field parallel to the flow direction. This is due to the superstition of electro-osmotic flow with pressure-driven flow in porous media, which introduces one degree of freedom for manipulating the pressure field across the oil-water interface. </p>
+
+
+        </p>
+      </div>
+    </div>
+    <div class="row">
+        <span class="border-top border-secondary mt-0 w-100">
+
+        <h5 class="mt-3"> Read More </h5>
+    
+<ul class="mt-3">
+    <li>
+<a href="">[PLEASE PROVIDE LINK] Active control of viscous fingering using electric field.</a>
+    </li>
+</ul>
+<h5>Related work done by collaborators </h5>
+<ul class="mt-3"> 
+<li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.174501">Electrokinetic control of viscous fingering. </a></br>(Dr. Mirzadeh and Prof. Bazant).</li>
+</ul>
+
+</div>
+  </div>
+  
+ 
+
+  
+    
+            <footer class="mb-5 small text-center text-muted">
+                Tech support provided by hlin05. 
+            </footer>
+    
+        </body>
+</html>

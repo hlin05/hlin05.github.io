@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+          
+        <title>Taogao-EChem</title>
+        <style>
+            
+
+        </style>
+    </head>
+        <body>
+            <nav class="bg-light border navbar navbar-expand-md navbar-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="/"><span class="text-secondary">MultiScale</span>  <span class="text-primary"> E. </span><span class="text-success">C</span><span class="text-danger">H</span><span class="text-info">E</span><span class="text-warning">M</span></a>
+                    <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse" id="navbar">
+                            <ul class="navbar-nav">
+                                <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/gallary">Gallery</a></li>
+                            
+
+                                <div class="btn-group dropdown">
+                                <button class="btn btn-link text-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Research
+                                  </button>
+                                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="/overview">Overview</a>
+                                    <a class="dropdown-item" href="/liion-batteries">Li-ion Batteries</a>
+                                    <a class="dropdown-item" href="/multi">Multi-valent Batteries</a>
+                                    <a class="dropdown-item" href="/redox">Redox Flow Batteries</a>
+                                    <a class="dropdown-item" href="/water">Water Desalination</a>
+                                    <a class="dropdown-item" href="/fluid">Fluid Mechancis</a>
+                                  </div>
+                                  </li>
+                                </div>
+
+                                <div class="btn-group dropdown">
+                                    <button class="btn btn-link text-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Team
+                                      </button>
+                                      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                        <a class="dropdown-item" href="/prin_inv">Principal Investigator</a>
+                                        <a class="dropdown-item" href="#">Current Members</a>
+                                        <a class="dropdown-item" href="/alumni">Alumni</a>
+                                      </div>
+                                      </li>
+                                    </div>
+                            
+                                <li class="nav-item"><a class="nav-link" href="/pub">Publications</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/teach">Teaching</a></li>
+                                
+                            </ul>
+
+                            <ul class="navbar-nav ml-auto mt-2 px-5">
+                                <!--Need to add a toll down button here -->
+                                <div class="dropdown dropstart">
+                                    <button class="btn btn-secondary dropdown-toggle mr-5" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                      More
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                      <a class="dropdown-item" href="#">University of Utah</a>
+                                      <a class="dropdown-item" href="#">Salt Lake City</a>
+                                      <a class="dropdown-item" href="#">Lab Equipment</a>
+                                      <a class="dropdown-item" href="#">Openings</a>
+                                    </div>
+                                  </div>
+                            </ul>
+
+                    </div>
+                </div>
+            </nav>
+            
+        
+<section class="jumbotron text-center">
+    <div class="container tight">
+      <h1 class="display-4">Tao's Research </h1>
+      <p class="lead" style="white-space:pre-wrap;">Dr. Gao has published over <strong>60</strong> papers in many prestigious journals including<em> </em><strong><em>Science, Nature Material, Nature Chemistry, Nature Communication, Journal of American Chemical Society, Angewandte Chemie International Edition, Advanced Materials</em></strong><em> </em>etc. He has an h-index of <strong>50</strong>, with a total citation of <strong>&gt; 9000. </strong></p>
+            <p class="lead">
+                <a class="btn btn-secondary btn-md" href="https://scholar.google.com/citations?hl=en&user=73w5AAcAAAAJ" role="button">Google Scholar</a>
+                <a class="btn btn-secondary btn-md" href="https://www.researchgate.net/profile/Tao-Gao-5" role="button">ResearchGate</a>
+              </p>
+    </div>
+</section>
+<div class="container tight">
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2021</strong></p>
+<p class="" style="white-space:pre-wrap;">61. <a href="/s/1-s20-S254243512030619X-main.pdf"><strong>Interplay of Lithium Intercalation and Plating on a Single Graphite Particle</strong></a><strong>.  </strong><a href="/s/2021_Joule_SI.pdf"><strong> Supporting Information.</strong></a><br><strong>T Gao</strong>, Y Han, D Fraggedakis, S Das, T Zhou, CN Yeh, S Xu, WC Chueh, J Li, M Bazant, Joule</p>
+<p class="" style="white-space:pre-wrap;">
+<strong>Prior to the University of Utah</strong></p>
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2020</strong></p>
+<p class="" style="white-space:pre-wrap;">60. <a href="/s/2020_Luo_PNAS.pdf"><strong>A chemically stabilized sulfur cathode for lean electrolyte lithium sulfur batteries</strong></a><br>C Luo, E Hu, KJ Gaskell, X Fan, <strong>T Gao,</strong> C Cui, S Ghose, XQ Yang, ...<br>Proceedings of the National Academy of Sciences 117 (26), 14712-14720<br><br>59. <a href="/s/2020_Finegon_EES.pdf"><strong>Spatial dynamics of lithiation and lithium plating during high-rate operation of graphite electrodes</strong></a><br>DP Finegan, A Quinn, DS Wragg, AM Colclasure, X Lu, C Tan, ...<br>Energy &amp; Environmental Science 13 (8), 2570-2584</p><p class="" style="white-space:pre-wrap;"><strong>58. </strong><a href="/s/2020_Frag_EES.pdf"><strong>A scaling law to determine phase morphologies during ion intercalation</strong></a><br>D Fraggedakis#, N Nadkarni#, <strong>T Gao#</strong>, T Zhou, Y Zhang, Y Han, ...<br>Energy &amp; Environmental Science, 2020<br><br>57. <a href="/s/2020_Hou_Nano-Energy.pdf"><strong>Small-scale desalination of seawater by shock electrodialysis</strong></a><br>MA Alkhadra #, <strong>T Gao #</strong>, KM Conforti, H Tian, MZ Bazant<br>Desalination 476, 114219, 2020<br><br>56. <a href="/s/2020_Mo_Desalination.pdf"><strong>Operando probing ion and electron transport in porous electrodes</strong></a><br>S Hou, <strong>T Gao,</strong> X Li, C Wang<br>Nano Energy 67, 104254, 2020</p><p class="" style="white-space:pre-wrap;">
+</p>
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2019</strong></p>
+<p class="" style="white-space:pre-wrap;">55. <a href="/s/2019_Mo_EST.pdf"><strong>Continuous Separation of Radionuclides from Contaminated Water by Shock Electrodialysis</strong></a><br>MA Alkhadra, KM Conforti, <strong>T Gao,</strong> H Tian, MZ Bazant<br>Environmental Science &amp; Technology 54 (1), 527-536, 2019<br><br>54. <a href="/s/2019_Mao_ange-s248.pdf"><strong>A Pyrazine‐Based Polymer for Fast‐Charge Batteries</strong></a><br>M Mao, C Luo, TP Pollard, S Hou, <strong>T Gao,</strong> X Fan, C Cui, J Yue, Y Tong, ...<br>Angewandte Chemie International Edition 58 (49), 17820-17826, 2019<br><br>53. <a href="/s/2019_nadkarni-93b5.pdf"><strong>Modeling the Metal–Insulator Phase Transition in LixCoO2 for Energy and Information Storage</strong></a><br>N Nadkarni, T Zhou, D Fraggedakis, <strong>T Gao,</strong> MZ Bazant<br>Advanced Functional Materials 29 (40), 1902821, 2019<br><br>52. <a href="/s/2020_Mao_nanoletter.pdf"><strong>A High-Energy-Density Rechargeable Mg Battery Enabled by Displacement Reaction</strong></a><br>M Mao #, <strong>T Gao #</strong>, S Hou, F Wang, J Chen, Z Wei, X Fan, X Ji, J Ma, ...<br>Nano letters, 2019<br><br>51. <a href="/s/2019_Mao_CM.pdf"><strong>Tuning anionic chemistry to improve kinetics of Mg intercalation</strong></a><br>M Mao, X Ji, S Hou, <strong>T Gao</strong>, F Wang, L Chen, X Fan, J Chen, J Ma, ...<br>Chemistry of Materials 31 (9), 3183-3191, 2019<br><br>50. <a href="/s/2019_Gao_NC.pdf"><strong>Active control of viscous fingering using electric fields</strong></a><br><strong>T Gao #</strong>, M Mirzadeh #, P Bai, KM Conforti, MZ Bazant<br>Nature Communication 10 (1), 1-8, 2019</p><p class="" style="white-space:pre-wrap;">
+</p>
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2018</strong></p>
+<p class="" style="white-space:pre-wrap;"><strong>49. How water accelerates bivalent ion diffusion at the electrolyte/electrode interface</strong><br>F Wang, W Sun, Z Shadike, E Hu, X Ji, <strong>T Gao</strong>, XQ Yang, K Xu, C Wang<br>Angewandte Chemie International Edition 57 (37), 11978-11981, 2018<br><br>48. <strong>High energy-density and reversibility of iron fluoride cathode enabled via an intercalation-extrusion reaction</strong><br>X Fan, E Hu, X Ji, Y Zhu, F Han, S Hwang, J Liu, S Bak, Z Ma, <strong>T Gao</strong>, ...<br>Nature communications 9 (1), 1-12, 2018<br><br>47. <strong>A universal organic cathode for ultrafast lithium and multivalent metal batteries</strong><br>X Fan, F Wang, X Ji, R Wang, <strong>T Gao</strong>, S Hou, J Chen, T Deng, X Li, L Chen, ...<br>Angewandte Chemie International Edition 57 (24), 7146-7150, 2018<br><br>46. <strong>Highly reversible zinc metal anode for aqueous batteries</strong><br>F Wang, O Borodin, <strong>T Gao,</strong> X Fan, W Sun, F Han, A Faraone, JA Dura, ...<br>Nature materials 17 (6), 543-549, 2018<br><br>45. <strong>Hybrid aqueous/non-aqueous electrolyte for safe and high-energy Li-ion batteries</strong><br>F Wang, O Borodin, MS Ding, M Gobet, J Vatamanu, X Fan, <strong>T Gao, </strong>...<br>Joule 2 (5), 927-937, 2018<br><br>44. <strong>An artificial interphase enables reversible magnesium chemistry in carbonate electrolytes</strong><br>SB Son, <strong>T Gao,</strong> SP Harvey, KX Steirer, A Stokes, A Norman, C Wang, ...<br>Nature chemistry 10 (5), 532-539, 2018<br><br>43. <strong>Existence of solid electrolyte interphase in Mg batteries: Mg/S chemistry as an example</strong><br><strong>T Gao, </strong>S Hou, K Huynh, F Wang, N Eidson, X Fan, F Han, C Luo, M Mao, ...<br>ACS applied materials &amp; interfaces 10 (17), 14767-14776, 2018<br><br>42. <strong>Interphase engineering enabled all-ceramic lithium battery</strong><br>F Han, J Yue, C Chen, N Zhao, X Fan, Z Ma, <strong>T Gao,</strong> F Wang, X Guo, ...<br>Joule 2 (3), 497-508, 2018<br><br>41. <strong>Flexible ReS2 nanosheets/N-doped carbon nanofibers-based paper as a universal anode for alkali (Li, Na, K) ion battery</strong><br>M Mao, C Cui, M Wu, M Zhang, <strong>T Gao, </strong>X Fan, J Chen, T Wang, J Ma, ...<br>Nano Energy 45, 346-352, 2018<br><br>40. <strong>Reducing Mg anode overpotential via ion conductive surface layer formation by iodine additive</strong><br>X Li #, <strong>T Gao #</strong>, F Han, Z Ma, X Fan, S Hou, N Eidson, W Li, C Wang<br>Advanced Energy Materials 8 (7), 1701728, 2018<br><br>39. <strong>A critical review of cathodes for rechargeable Mg batteries</strong><br>M Mao, <strong>T Gao *</strong>, S Hou, C Wang<br>Chemical Society Reviews 47 (23), 8804-8841, 2018<br><br>38. <strong>A rechargeable aqueous Zn 2+-battery with high power density and a long cycle-life</strong><br>F Wang, E Hu, W Sun, <strong>T Gao</strong>, X Ji, X Fan, F Han, XQ Yang, K Xu, C Wang<br>Energy &amp; Environmental Science 11 (11), 3168-3175, 2018<br><br>37. <strong>Intercalation of Bi nanoparticles into graphite results in an ultra-fast and ultra-stable anode material for sodium-ion batteries</strong><br>J Chen, X Fan, X Ji, <strong>T Gao</strong>, S Hou, X Zhou, L Wang, F Wang, C Yang, ...<br>Energy &amp; Environmental Science 11 (5), 1218-1225, 2018<br><br>36. <strong>Thermodynamics and Kinetics of Sulfur Cathode during Discharge in MgTFSI2–DME Electrolyte</strong><br><strong>T Gao,</strong> X Ji, S Hou, X Fan, X Li, C Yang, F Han, F Wang, J Jiang, K Xu, ...<br>Advanced Materials 30 (3), 1704313, 2018</p><p class="" style="white-space:pre-wrap;"></p>
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2017</strong></p>
+<p class="" style="white-space:pre-wrap;"><strong>35. How solid-electrolyte interphase forms in aqueous electrolytes</strong><br>L Suo, D Oh, Y Lin, Z Zhuo, O Borodin, <strong>T Gao,</strong> F Wang, A Kushima, et al<br>Journal of the American Chemical Society 139 (51), 18670-18680, 2017<br><br>34. <strong>Self-healing chemistry between organic material and binder for stable sodium-ion batteries</strong><br>C Luo, X Fan, Z Ma, <strong>T Gao,</strong> C Wang<br>Chem 3 (6), 1050-1062, 2017<br><br>33. <strong>Flexible Aqueous Li‐Ion Battery with High Energy and Power Densities</strong><br>C Yang, X Ji, X Fan, <strong>T Gao,</strong> L Suo, F Wang, W Sun, J Chen, L Chen, ...<br>Advanced Materials 29 (44), 1701972, 2017<br><br>32. <strong>High-voltage aqueous magnesium ion batteries</strong><br>F Wang, X Fan, <strong>T Gao,</strong> W Sun, Z Ma, C Yang, F Han, K Xu, C Wang<br>ACS central science 3 (10), 1121-1128, 2017<br><br>31. <strong>Reversible S0/MgSx Redox Chemistry in a MgTFSI2/MgCl2/DME Electrolyte for Rechargeable Mg/S Batteries</strong><br><strong>T Gao,</strong> S Hou, F Wang, Z Ma, X Li, K Xu, C Wang<br>Angewandte Chemie 129 (43), 13711-13715, 2017<br><br>30. <strong>Reverse microemulsion synthesis of sulfur/graphene composite for lithium/sulfur batteries</strong><br>MR Kaiser, Z Ma, X Wang, F Han, <strong>T Gao,</strong> X Fan, JZ Wang, HK Liu, S Dou, ...<br>ACS nano 11 (9), 9048-9056, 2017<br><br>29. <strong>“Water-in-Salt” electrolyte enabled LiMn2O4/TiS2 Lithium-ion batteries</strong><br>W Sun, L Suo, F Wang, N Eidson, C Yang, F Han, Z Ma, <strong>T Gao,</strong> M Zhu, ...<br>Electrochemistry Communications 82, 71-74, 2017<br><br>28. <strong>Superior reversible tin phosphide-carbon spheres for sodium ion battery anode</strong><br>X Fan, <strong>T Gao,</strong> C Luo, F Wang, J Hu, C Wang<br>Nano energy 38, 350-357, 2017<br><br>27. <strong>Zn/MnO2 Battery Chemistry With H+ and Zn2+ Coinsertion</strong><br>W Sun, F Wang, S Hou, C Yang, X Fan, Z Ma, <strong>T Gao,</strong> F Han, R Hu, M Zhu, ...<br>Journal of the American Chemical Society 139 (29), 9775-9778, 2017<br><br>26. <strong>Unique aqueous Li-ion/sulfur chemistry with high energy density and reversibility</strong><br>C Yang, L Suo, O Borodin, F Wang, W Sun, <strong>T Gao,</strong> X Fan, S Hou, Z Ma, ...<br>Proceedings of the National Academy of Sciences 114 (24), 6197-6202, 2017<br><br>25. <strong>Spinel LiNi0.5Mn1.5O4 Cathode for High‐Energy Aqueous Lithium‐Ion Batteries</strong><br>F Wang, L Suo, Y Liang, C Yang, F Han, <strong>T Gao,</strong> W Sun, C Wang<br>Advanced Energy Materials 7 (8), 1600922, 2017<br><br>24. <strong>Electrochemical techniques for intercalation electrode materials in rechargeable batteries</strong><br>Y Zhu #, <strong>T Gao #</strong>, X Fan, F Han, C Wang<br>Accounts of chemical research 50 (4), 1022-1031, 2017<br><br>23. <strong>High power rechargeable magnesium/iodine battery chemistry</strong><br>H Tian #, <strong>T Gao #</strong>, X Li, X Wang, C Luo, X Fan, C Yang, L Suo, Z Ma, ...<br>Nature communications 8, 14083, 2017</p><p class="" style="white-space:pre-wrap;"></p>
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2016</strong></p>
+<p class="" style="white-space:pre-wrap;"><strong>22. Stabilizing high sulfur loading Li–S batteries by chemisorption of polysulfide on three-dimensional current collector</strong><br>X Wang, <strong>T Gao,</strong> F Han, Z Ma, Z Zhang, J Li, C Wang<br>Nano Energy 30, 700-708, 2016<br><br>21. <strong>Tailoring Surface Acidity of Metal Oxide for Better Polysulfide Entrapment in Li‐S Batteries</strong><br>X Wang, <strong>T Gao,</strong> X Fan, F Han, Y Wu, Z Zhang, J Li, C Wang<br>Advanced Functional Materials 26 (39), 7164-7169, 2016<br><br>20. <strong>A rechargeable Al/S battery with an ionic‐liquid electrolyte</strong><br><strong>T Gao, </strong>X Li, X Wang, J Hu, F Han, X Fan, L Suo, AJ Pearse, SB Lee, et al<br>Angewandte Chemie International Edition 55 (34), 9898-9901,2016<br><br>19. <strong>High-Performance All-Solid-State Lithium–Sulfur Battery Enabled by a Mixed-Conductive Li2S Nanocomposite</strong><br>F Han, J Yue, X Fan, <strong>T Gao,</strong> C Luo, Z Ma, L Suo, C Wang<br>Nano letters 16 (7), 4521-4527, 2016<br><br>18. <strong>Advanced high‐voltage aqueous lithium‐ion battery enabled by “water‐in‐bisalt” electrolyte</strong><br>L Suo, O Borodin, W Sun, X Fan, C Yang, F Wang, <strong>T Gao, </strong>Z Ma, et al<br>Angewandte Chemie International Edition 55 (25), 7136-7141, 2016<br><br>17. <strong>Pomegranate-structured conversion-reaction cathode with a built-in Li source for high-energy Li-ion batteries</strong><br>X Fan, Y Zhu, C Luo, L Suo, Y Lin, <strong>T Gao,</strong> K Xu, C Wang<br>ACS nano 10 (5), 5567-5577, 2016<br><br>16. <strong>In situ lithiated FeF3/C nanocomposite as high energy conversion-reaction cathode for lithium-ion batteries</strong><br>X Fan, Y Zhu, C Luo, <strong>T Gao,</strong> L Suo, SC Liou, K Xu, C Wang<br>Journal of Power Sources 307, 435-442, 2016<br><br>15. <strong>Activation of Oxygen‐Stabilized Sulfur for Li and Na Batteries</strong><br>C Luo, Y Zhu, O Borodin, <strong>T Gao,</strong> X Fan, Y Xu, K Xu, C Wang<br>Advanced Functional Materials 26 (5), 745-752, 2016<br><br>14. <strong>Electrospun FeS2@Carbon Fiber Electrode as a High Energy Density Cathode for Rechargeable Lithium Batteries</strong><br>Y Zhu, X Fan, L Suo, C Luo, <strong>T Gao,</strong> C Wang<br>ACS nano 10 (1), 1529-1538, 2016<br><br>13. <strong>Stabilizing high voltage LiCoO 2 cathode in aqueous electrolyte with interphase-forming additive</strong><br>F Wang, Y Lin, L Suo, X Fan, <strong>T Gao, </strong>C Yang, F Han, Y Qi, K Xu, C Wang<br>Energy &amp; Environmental Science 9 (12), 3666-3673, 2016</p><p class="" style="white-space:pre-wrap;"></p>
+<p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2015</strong></p>
+<p class="" style="white-space:pre-wrap;">12. <strong>“Water-in-salt” electrolyte enables high-voltage aqueous lithium-ion chemistries</strong><br>L Suo, O Borodin, <strong>T Gao, </strong>M Olguin, J Ho, X Fan, C Luo, C Wang, K Xu<br>Science 350 (6263), 938-943<br><br>11. <strong>Enhancing the reversibility of Mg/S battery chemistry through Li+ mediation</strong><br><strong>T Gao #,</strong> M Noked #, AJ Pearse, E Gillette, X Fan, Y Zhu, C Luo, L Suo, et al.<br>Journal of the American Chemical Society 137 (38), 12388-12393<br><br>10. <strong>Superior Stable Self‐Healing SnP3 Anode for Sodium‐Ion Batteries</strong><br>X Fan, J Mao, Y Zhu, C Luo, L Suo, <strong>T Gao,</strong> F Han, SC Liou, C Wang<br>Advanced Energy Materials 5 (18), 1500174<br><br>9. <strong>Solid-State Fabrication of SnS2/C Nanospheres for High-Performance Sodium Ion Battery Anode</strong><br>J Wang, C Luo, J Mao, Y Zhu, X Fan, <strong>T Gao, </strong>AC Mignerey, C Wang<br>ACS applied materials &amp; interfaces 7 (21), 11476-11481<br><br>8. <strong>A battery made from a single material</strong><br>F Han, <strong>T Gao, </strong>Y Zhu, KJ Gaskell, C Wang<br>Advanced Materials 27 (23), 3473-3483<br><br>7. <strong>Ether-based electrolyte enabled Na/FeS2 rechargeable batteries</strong><br>Y Zhu, L Suo, <strong>T Gao,</strong> X Fan, F Han, C Wang<br>Electrochemistry Communications 54, 18-22<br><br>6. <strong>Carbon cage encapsulating nano-cluster Li2S by ionic liquid polymerization and pyrolysis for high performance Li–S batteries</strong><br>L Suo, Y Zhu, F Han, <strong>T Gao, </strong>C Luo, X Fan, YS Hu, C Wang<br>Nano Energy 13, 467-473<br><br>5. <strong>Red phosphorus–single-walled carbon nanotube composite as a superior anode for sodium ion batteries</strong><br>Y Zhu, Y Wen, X Fan, <strong>T Gao,</strong> F Han, C Luo, SC Liou, C Wang<br>ACS nano 9 (3), 3254-3264<br><br>4. <strong>Hybrid Mg2+/Li+ Battery with Long Cycle Life and High Rate Capability</strong><br><strong>T Gao,</strong> F Han, Y Zhu, L Suo, C Luo, K Xu, C Wang<br>Advanced Energy Materials 5 (5), 1401507<br><br>3. <strong>Scalable synthesis of Na 3 V 2 (PO 4) 3/C porous hollow spheres as a cathode for Na-ion batteries</strong><br>J Mao, C Luo, <strong>T Gao, </strong>X Fan, C Wang<br>Journal of Materials Chemistry A 3 (19), 10378-10385<br><br>2. <strong>An Advanced MoS2/Carbon Anode for High‐Performance Sodium‐Ion Batteries</strong><br>J Wang, C Luo, <strong>T Gao, </strong>A Langrock, AC Mignerey, C Wang<br>Small 11 (4), 473-481</p><p class="" style="white-space:pre-wrap;">——————————————————————————————————————————</p><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>2014</strong></p><p class="" style="white-space:pre-wrap;"><strong>1. Graphene oxide wrapped croconic acid disodium salt for sodium ion battery electrodes</strong><br>C Luo, Y Zhu, Y Xu, Y Liu, <strong>T Gao, </strong>J Wang, C Wang<br>Journal of Power Sources 250, 372-378, 2014</p>
+</div>
+
+        
+         
+    
+            <footer class="mb-5 small text-center text-muted">
+                Tech support provided by hlin05. 
+            </footer>
+    
+        </body>
+</html>
