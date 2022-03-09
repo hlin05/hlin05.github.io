@@ -91,8 +91,26 @@ def pub():
 def teach():
     return render_template("teach.html")
 
+@app.route("/univ")
+def univ():
+    return render_template("univ.html")
 
-freezer = Freezer(app)
+@app.route("/slc")
+def slc():
+    return render_template("slc.html")
 
-if __name__ == '__main__':
-    freezer.freeze()
+@app.route("/equip")
+def equip():
+    return render_template("equip.html")
+
+@app.route("/open")
+def open():
+    return render_template("open.html")
+
+@app.route("/member")
+def member():
+    return render_template("member.html")
+# freezer = Freezer(app)
+
+# if __name__ == '__main__':
+#     freezer.freeze()
